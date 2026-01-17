@@ -1,7 +1,9 @@
-![Markdown](https://img.shields.io)
-![Confluence](https://img.shields.io)
-![Git](https://img.shields.io)
-![Linux](https://img.shields.io)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## Привет! Я Дарья — технический писатель
 Специализируюсь на создании понятной документации для сложных продуктов. Умею переводить с «разработческого» на человеческий и выстраивать процессы «Docs as Code».
